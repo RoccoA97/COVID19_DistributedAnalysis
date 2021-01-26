@@ -22,4 +22,4 @@ In this work, we consider as dataset a sub-sample of 1000 items taken from the o
 * we take the documents and convert them in a dataframe data structure in order to figure out the countries that are most and less active in the research;
 * lastly, we the cosine similarity between each pair of papers, figuring out some couples of papers with the highest cosine similarity score.
 
-The final report of this study can be found [**here**](https://github.com/RoccoA97/COVID19_DistributedAnalysis/blob/main/report.ipynb). Note also that all the documents present in the data folder are structured in a way described [**here**](https://github.com/RoccoA97/COVID19_DistributedAnalysis/blob/main/data/json_schema.txt).
+The final report of this study can be found [**here**](https://github.com/RoccoA97/COVID19_DistributedAnalysis/blob/main/report.ipynb). Note also that all the documents present in the **`data`** folder are structured in a way described [**here**](https://github.com/RoccoA97/COVID19_DistributedAnalysis/blob/main/data/json_schema.txt).
